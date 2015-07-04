@@ -1,6 +1,8 @@
 import  java.util.*;
 import java.io.*;
 
+
+
 class Kohonen {
 
     static int inputDimension = 3;
