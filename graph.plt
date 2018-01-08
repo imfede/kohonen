@@ -181,8 +181,8 @@ y=0
 
 dim = 3
 netDim = 2
-nON = 900
-nOR = 30
+nON = 200
+nOR = 20
 
 
 list = system('ls datas/data*')
